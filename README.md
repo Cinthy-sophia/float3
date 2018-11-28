@@ -1,6 +1,7 @@
 # float3
-ejercicio float columna 3
+3 ejercicio float 2 columnas
 
+```html
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -76,3 +77,4 @@ This is where the related content goes.
 <footer>Copyright stuff....</footer>
 </body>
 </html>
+```
